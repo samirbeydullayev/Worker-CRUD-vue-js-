@@ -4,9 +4,13 @@
 
 ## Build Setup
 
-# add your firebase url ./main.js
+
 
 ``` bash
+
+ add your firebase url ./main.js
+
+
 # install dependencies
 npm install
 
