@@ -8,7 +8,7 @@
 
 ``` bash
 
- add your firebase url ./main.js
+* add your firebase url ./main.js
 
 
 # install dependencies
